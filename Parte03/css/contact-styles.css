@@ -95,8 +95,8 @@ fieldset {
 
 .send-form:hover {
     background: #FF8C00;
-    transition: 1s background;
+    transition: 1s all;
     cursor: pointer;
 
-    transform: scale()
+    transform: scale(1.2);
 }
