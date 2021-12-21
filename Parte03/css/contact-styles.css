@@ -72,9 +72,29 @@ form label {
     margin-bottom: 20px;
     padding: 10px 25px;
     width: 50%;
-    border-radius: 5%;
 }
 
 .checkbox {
     margin: 20px 0;
+}
+
+fieldset {
+    border: none;
+}
+
+.send-form {
+    width: 40%;
+    padding: 15px 0;
+    background: #FFA500;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
+
+.send-form:hover {
+    background: #FF8C00;
+    transition: 1s background;
+    cursor: pointer;
 }
