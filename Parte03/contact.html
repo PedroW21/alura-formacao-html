@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../Parte03/css/styles.css">
+    <link rel="stylesheet" href="../Parte03/css/contact-styles.css">
     <title>Contato | Barbearia Alura</title>
 </head>
 
@@ -36,7 +36,53 @@
         </section>
     </header>
 
-    <main>]
+    <main>
+
+        <form>
+            <label for="name">Nome Completo</label>
+            <input type="text" id="name" class="input-padrao">
+
+            <label for="email">Email</label>
+            <input type="email" id="email" class="input-padrao">
+
+            <label for="telphone">Telefone</label>
+            <input type="number" id="telephone" class="input-padrao">
+
+            <label for="mensage">Mensagem</label>
+            <textarea id="mensage" class="input-padrao" cols="60" rows="10"></textarea>
+
+            <section class="how-to-contact-you">
+                <label>Como você prefere nosso contato?</label>
+
+                <label for="Whatsapp">
+                    <input id="Whatsapp" name="contato" value="Whatsapp" type="radio">
+                    WhatsApp
+                </label>
+
+
+                <label for="telegram">
+                    <input id="telegram" name="contato" value="telegram" type="radio">
+                    Telegram
+                </label>
+
+
+                <label for="radio-email">
+                    <input id="radio-email" name="contato" value="email" type="radio">
+                    Email
+                </label>
+
+
+            </section>
+
+            <label>
+                <input class="checkbox" id="checkbox-newsletter" type="checkbox">
+                Gostaria de receber nossas novidades por email?
+            </label>
+
+
+            <input type="submit" value="Enviar Formulário">
+
+        </form>
 
     </main>
 
