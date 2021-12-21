@@ -97,4 +97,6 @@ fieldset {
     background: #FF8C00;
     transition: 1s background;
     cursor: pointer;
+
+    transform: scale()
 }
