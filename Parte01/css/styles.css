@@ -1,12 +1,16 @@
 body {
   text-align: center;
-  background-color: gray;
+  background-color: #d3d3d3;
+}
+
+#banner {
+    width: 100%;
 }
 
 p em {
   font-size: 1.25rem;
 }
 
-em strong {
-    color: red;
+#missao {
+  color: #ff5733;
 }
