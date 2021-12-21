@@ -1,1 +1,12 @@
 body {
+  text-align: center;
+  background-color: gray;
+}
+
+p em {
+  font-size: 1.25rem;
+}
+
+em strong {
+    color: red;
+}
