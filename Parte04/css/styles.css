@@ -6,7 +6,9 @@
 
 body {
   font-family: "Montserrat", sans-serif;
+  background: linear-gradient(#fefefe, #888888);
 }
+
 
 /*Começo do Cabeçalho*/
 
@@ -132,9 +134,7 @@ nav a:hover {
   margin: 1em auto;
 }
 
-main {
-  background: linear-gradient(#fefefe, #888888);
-}
+
 
 footer {
   text-align: center;
