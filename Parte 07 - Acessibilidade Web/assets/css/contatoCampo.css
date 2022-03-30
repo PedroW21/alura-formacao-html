@@ -27,7 +27,10 @@
 }
 
 .contatoCampo-checkbox {
-  display: none;
+  /* display: none; Ele esconde também de leitores de tela */
+  /*visibility: hiden*/ /*Ele so esconde o elemento visualmente, mas sua estrutura e espaço alocado na tela continua lá*/
+  position: absolute;
+  left: -9999px; /* O infinito do Css*/
 }
 
 .contatoCampo-icone {
