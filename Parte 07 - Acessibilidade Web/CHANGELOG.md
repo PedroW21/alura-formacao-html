@@ -18,3 +18,8 @@
 - Retirado de todas as imagens a palavra que remete que é uma imagem, pois o leitor de tela automaticamente faz isso;
 - Inserido uma descrição da foto na seção "listaDeArtigos", na "secaoSobre" e na linha 221, 236, 279 (enfatizando também que é uma ilustração), 288, 435;
 - Colocado title no SVG do header para que seja possível ele ser lido (foi usado title pois não é possivel usar alt);
+
+# 4o Commit
+
+- Melhorando os alts de todas as imagens - Obs: caso eu coloque o alt vazio o leitor de tela vai ignorar;
+
