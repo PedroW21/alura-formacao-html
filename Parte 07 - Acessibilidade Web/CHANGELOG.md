@@ -23,3 +23,7 @@
 
 - Melhorando os alts de todas as imagens - Obs: caso eu coloque o alt vazio o leitor de tela vai ignorar;
 
+# 5o Commit
+
+- Obs: Detectron (um meio que o facebook encontrou de automatizar as descrições da imagem);
+- 
