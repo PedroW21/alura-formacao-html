@@ -51,3 +51,7 @@
 # 11o Commit
 
 - Tornando o Formulário mais acessivel;
+
+# 12o Commit
+
+- Melhorando responsibilidade no Mobile;
