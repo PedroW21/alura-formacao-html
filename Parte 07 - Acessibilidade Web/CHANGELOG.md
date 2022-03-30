@@ -44,3 +44,6 @@
 
  - Aplicando o atributo role na tag MAIN;
 
+# 10o Commit
+
+- Utilizando figure, figcation e WAI ARIA (um pacote de expansão do HTML5);
