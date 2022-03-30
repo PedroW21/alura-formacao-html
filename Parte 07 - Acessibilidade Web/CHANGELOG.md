@@ -26,4 +26,8 @@
 # 5o Commit
 
 - Obs: Detectron (um meio que o facebook encontrou de automatizar as descrições da imagem);
-- 
+
+# 6o Commit
+
+- Melhorado a lista da "secaoPlanos", retirando o estilo de "bolinha" (resumindo, css influencia no leitor de tela);
+- Alterado "todxs" na linha 119 para algo que mantenha inclusivo e que não dificulte o entendimento de um usuário leitor de tela;
