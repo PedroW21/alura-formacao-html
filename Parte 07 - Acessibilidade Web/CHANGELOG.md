@@ -39,3 +39,8 @@
  # 8o Commit
  
  - Adicionado o link "pular conteudo principal" para melhorar a acessibilidade;
+
+ # 9o Commit
+
+ - Aplicando o atributo role na tag MAIN;
+
