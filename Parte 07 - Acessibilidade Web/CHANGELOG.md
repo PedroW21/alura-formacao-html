@@ -34,3 +34,8 @@
 
 # 7o Commit
 
+ - Sumindo com o checkbox básico (por css) do formulário, e tornando o personalizado visível para o leitor de tela;
+
+ # 8o Commit
+ 
+ - Adicionado o link "pular conteudo principal" para melhorar a acessibilidade;
