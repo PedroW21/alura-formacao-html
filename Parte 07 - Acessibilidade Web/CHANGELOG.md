@@ -58,4 +58,8 @@
 
 # 13o Commit
 
-- 
+- Melhorando a acessibilidade do video para pessoas surdas, adicionando uma legenda externa;
+
+# 14o Commit
+
+- Fim do Curso;
