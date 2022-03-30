@@ -47,3 +47,7 @@
 # 10o Commit
 
 - Utilizando figure, figcation e WAI ARIA (um pacote de expansão do HTML5);
+
+# 11o Commit
+
+- Tornando o Formulário mais acessivel;
