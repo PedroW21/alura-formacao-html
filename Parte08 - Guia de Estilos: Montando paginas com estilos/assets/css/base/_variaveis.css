@@ -2,6 +2,7 @@
     --yellow: #FFCB47;
     --yellow-shadow: #FFCB473D;
     --white: #FFFFFF;
+    --black: #202020;
     --preto-transparente:#0000000F;
 
     --font-body: "Montserrat", sans-serif;
@@ -9,11 +10,12 @@
 
     --button-weight: 700;
 
-    /* Titulo*/
 
     --font-title: 'Elsie Swash Caps', sans-serif;
     --font-title-weight: 900;
     --font-title-size: 1.375rem;
     --font-title-destaque-size: 2rem;
 
+    --destaque-weight: 700;
+    --destaque-size: 1.375rem;
 }
