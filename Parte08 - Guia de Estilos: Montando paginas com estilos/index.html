@@ -7,6 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/base/base.css">
     <link rel="stylesheet" href="assets/css/components/cabecalho.css">
+    <link rel="stylesheet" href="assets/css/components/input.css">
+    <link rel="stylesheet" href="assets/css/components/buttons.css">
+    <link rel="stylesheet" href="assets/css/home.css">
+    <link rel="stylesheet" href="assets/css/components/card.css">
+    <link rel="stylesheet" href="assets/css/components/item.css">
+    <link rel="stylesheet" href="assets/css/how-to-get.css">
     <link rel="stylesheet" href="assets/css/components/footer.css">
     <title>Home | Casa Verde</title>
 </head>
@@ -18,6 +24,48 @@
             <img src="assets/img/icons/carrinho.svg" alt="Icone do carrinho de compras" class="cabecalho__carrinho">
         </a>
     </header>
+
+    <main>
+
+        <section class="chamada container">
+            <h2 class="title">
+                Sua casa com as
+                <span class="title--destaque">melhores plantas</span>
+            </h2>
+
+            <p class="chamada__texto text">
+                Encontre aqui uma vasta seleção de plantas para decorar a sua casa e torná-lo uma pessoa mais feliz no seu dia a dia. Entre com seu e-mail e assine nossa newsletter para saber das novidades da marca
+            </p>
+            <img class="chamada__imagem" src="assets/img/plant-home.png" alt="Foto do Produto">
+            <form class="chamada__form" action="#">
+                <input type="text" class="input input--icon input--email" placeholder="Insira seu e-mail" aria-label="Insina seu e-mail">
+                <button class="button">Assinar a newsletter</button>
+            </form>
+        </section>
+        
+        <section class="como-conseguir container">
+            <article class="card">
+                <h2 class="title align--center"> Como conseguir
+                    <span class="title--destaque"> minha planta</span></h2>
+    
+                    <ul class="list-item">
+                        <li class="item">
+                            <span class="item__icon item__icon--cursor"></span>
+                            <p>Escolhas suas plantas</p>
+                        </li>
+                        <li class="item">
+                            <span class="item__icon item__icon--carrinho"></span>
+                            <p>Faça o pedido</p>
+                        </li>
+                        <li class="item">
+                            <span class="item__icon item__icon--caminhao"></span>
+                            <p>Aguarde na sua casa</p>
+                        </li>
+                    </ul>
+            </article>
+        </section>
+
+    </main>
 
     <footer class="container rodape">
         <img src="assets/img/logo.svg" alt="Logo da Casa Verde" class="rodape__logo">
