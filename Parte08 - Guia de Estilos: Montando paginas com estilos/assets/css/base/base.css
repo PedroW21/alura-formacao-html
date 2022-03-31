@@ -8,9 +8,39 @@ body{
     background-position: center;
 
     font-family: var(--font-body);
-    font-size: var(--font-body-size)
+    font-size: var(--font-body-size);
+    color: var(--gray);
 }
 
 .container {
     padding: 0 1rem;
+}
+
+/* Titulo */
+
+.title {
+    font-size: var(--font-title-size);
+}
+
+.title--destaque {
+    font-family: var(--font-title);
+    color: var(--black);
+    font-size: var(--font-title-destaque-size);
+    font-weight: var(--font-title-weight);
+
+    display: block;
+
+    margin: .75rem 0;
+}
+
+.align--left {
+    text-align: left;
+}
+
+.align--center {
+    text-align: center;
+}
+
+.text {
+    line-height: 26px; /* Distanciamento entre linhas*/
 }

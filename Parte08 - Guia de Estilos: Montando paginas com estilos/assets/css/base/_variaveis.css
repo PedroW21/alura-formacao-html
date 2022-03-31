@@ -1,8 +1,19 @@
 :root {
     --yellow: #FFCB47;
+    --yellow-shadow: #FFCB473D;
     --white: #FFFFFF;
-    --button-shadow: #FFCB473D;
+    --preto-transparente:#0000000F;
 
     --font-body: "Montserrat", sans-serif;
     --font-body-size: 1rem;
+
+    --button-weight: 700;
+
+    /* Titulo*/
+
+    --font-title: 'Elsie Swash Caps', sans-serif;
+    --font-title-weight: 900;
+    --font-title-size: 1.375rem;
+    --font-title-destaque-size: 2rem;
+
 }

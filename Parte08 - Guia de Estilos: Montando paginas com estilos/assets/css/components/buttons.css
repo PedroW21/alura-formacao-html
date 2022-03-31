@@ -2,14 +2,14 @@
     background-color: var(--yellow);
     align-items: center;
     font-family: inherit; /*Herda a fonte do body*/
-    font-weight: 700;
+    font-weight: var(--button-weight);
     color: var(--white);
 
     width: 100%;
     padding-top: 1rem;
     padding-bottom: 1rem;
 
-    box-shadow: 10px 10px 30px var(--button-shadow);
+    box-shadow: 10px 10px 30px var(--yellow-shadow);
 
     border: none;
 }
