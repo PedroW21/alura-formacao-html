@@ -1,0 +1,16 @@
+/*Boa pratica colocar o _, fica subentendido que ele não é importado direto no HTML, mas é importado em algum lugar*/
+
+@import url(_reset.css);
+@import url(_variaveis.css); 
+
+body{
+    background: url(../../img/background-texture.png), url(../../img/background-lines.png);
+    background-position: center;
+
+    font-family: var(--font-body);
+    font-size: var(--font-body-size)
+}
+
+.container {
+    padding: 0 1rem;
+}

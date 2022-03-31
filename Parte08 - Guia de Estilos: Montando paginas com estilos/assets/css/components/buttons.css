@@ -1,15 +1,15 @@
 .button {
-    background-color: #FFCB47;
+    background-color: var(--yellow);
     align-items: center;
-    font-family: "Montserrat", sans-serif;
+    font-family: inherit; /*Herda a fonte do body*/
     font-weight: 700;
-    color: #FFFFFF;
+    color: var(--white);
 
     width: 100%;
     padding-top: 1rem;
     padding-bottom: 1rem;
 
-    box-shadow: 10px 10px 30px #FFCB473D;
+    box-shadow: 10px 10px 30px var(--button-shadow);
 
     border: none;
 }
